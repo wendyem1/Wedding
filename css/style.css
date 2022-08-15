@@ -352,7 +352,7 @@
 
 body {
 	font-family: Arial, Helvetica, Sans-serif;
-	background: white;
+	background-color: white;
 }
   
   @media (prefers-color-scheme: dark) {
