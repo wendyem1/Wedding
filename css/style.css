@@ -459,8 +459,9 @@ img {
 	font-style: normal;
 	font-size: 30px;
 	margin: 32px 0;
-	/*color: #674ea7;*/
-	background: -webkit-linear-gradient(#ac54bb, #c49fcf);
+	/*color: #674ea7;
+	background: -webkit-linear-gradient(#ac54bb, #c49fcf);*/
+	background: -webkit-linear-gradient(#674ea7, #3c2d62);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	letter-spacing: 3px;
