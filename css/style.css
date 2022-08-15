@@ -352,7 +352,14 @@
 
 body {
 	font-family: Arial, Helvetica, Sans-serif;
+	background: white;
 }
+  
+  @media (prefers-color-scheme: dark) {
+	body {
+	  background: white; 
+	}
+  }
 
 img {
 	max-width: 100%;
