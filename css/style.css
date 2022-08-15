@@ -461,7 +461,8 @@ img {
 	margin: 32px 0;
 	/*color: #47317f;*/
 	/*background: -webkit-linear-gradient(#ac54bb, #c49fcf);*/
-	background: -webkit-linear-gradient(#ac54bb, #c49fcf); 
+	/*background: -webkit-linear-gradient(#ac54bb, #c49fcf);*/ 
+	background: -webkit-linear-gradient(#674ea7, #5535a7);
 	-webkit-background-clip: text;
 	-webkit-text-fill-color: transparent;
 	letter-spacing: 3px;
